@@ -1,0 +1,15 @@
+.heross{
+  border-radius: 10px;
+  border: 2px solid grey;
+  padding: 10px 0;
+  margin: 10px 0;
+  cursor: pointer;
+  text-align: center;
+  width: 500px;
+  
+}
+.heross:hover{
+  background-color: aqua;
+  border-radius: 10px;
+  /* opacity: 0.2; */
+}
